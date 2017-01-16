@@ -33,10 +33,3 @@ __________________________________________________
 
 [ENCRYPTED]: 7f783620247c716e79216f7c74287d7f68647e3c3c7f7c7a206e7c223a7c21627b
 
-
-PURPOSE
-This script has been written to provide proof of concept for a proposed cryptographic algorithm.
-
-FUNCTIONALITY
-franken.py is a command line python script designed to take a key phrase of any length which can be used to encrypt/decrypt a string of any length.
-In order for the script to function it requries two arguments at minimum: -k and -m (--key, --message) - the key phrase (k) and the message (m).
